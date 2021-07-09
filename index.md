@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<div class="header">
+	<h2>
+	<center>Diversity of Academic and Industrial Careers across Continents</center>
+	</h2>
+	<hr class="small">
+	<p><center>Virtually during IJCAI 2021!</center></p>
+</div>
 
-You can use the [editor on GitHub](https://github.com/AnnaLukina/Borderless2021.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="row">
+<div class="col-md-8" markdown="1">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## <span style="color:#b11170">Invited Hosts:</span>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  [Maria Garcia De La Banda](https://research.monash.edu/en/persons/maria-garcia-de-la-banda) (Australia  UTC+10)
 
-```markdown
-Syntax highlighted code block
+  [Anna Lukina](https://annalukina.com) (EU UTC+2)
 
-# Header 1
-## Header 2
-### Header 3
+  [Georgiana Ifrim](https://www.insight-centre.org/our-team/georgiana-ifrim/) (UK UTC+1)
 
-- Bulleted
-- List
+  [Min Zhang](z-m@tsinghua.edu.cn) (China UTC+8)
 
-1. Numbered
-2. List
+  [Maria Keet](http://www.meteck.org/) (South Africa UTC+2)  
+ 
 
-**Bold** and _Italic_ and `Code` text
+</div>
+<div class="col-md-4" markdown="1">
 
-[Link](url) and ![Image](src)
-```
+## <span style="color:#b11170">Important Dates</span>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Call for participation:** Coming soon!
 
-### Jekyll Themes
+**Registration deadline:** Coming soon!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnnaLukina/Borderless2021.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Workshop date:** Coming soon!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>
