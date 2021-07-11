@@ -1,3 +1,9 @@
+---
+layout: home_original
+---
+
+
+
 <div class="header">
 	<h2>
 	<center>Diversity of Academic and Industrial Careers across Continents</center>
@@ -9,24 +15,24 @@
 <div class="row">
 <div class="col-md-8" markdown="1">
 
-## <span style="color:#b11170">Invited Hosts:</span>
+## <span style="color:#B6242A">Invited Hosts:</span>
 
 
-  [Maria Garcia De La Banda](https://research.monash.edu/en/persons/maria-garcia-de-la-banda) (Australia  UTC+10)
+  [Maria Garcia De La Banda](https://research.monash.edu/en/persons/maria-garcia-de-la-banda){:target="_blank"} (Australia  UTC+10)
 
-  [Anna Lukina](https://annalukina.com) (EU UTC+2)
+  [Anna Lukina](https://annalukina.com){:target="_blank"} (EU UTC+2)
 
-  [Georgiana Ifrim](https://www.insight-centre.org/our-team/georgiana-ifrim/) (UK UTC+1)
+  [Georgiana Ifrim](https://www.insight-centre.org/our-team/georgiana-ifrim/){:target="_blank"} (UK UTC+1)
 
-  [Min Zhang](z-m@tsinghua.edu.cn) (China UTC+8)
+  [Min Zhang](z-m@tsinghua.edu.cn){:target="_blank"} (China UTC+8)
 
-  [Maria Keet](http://www.meteck.org/) (South Africa UTC+2)  
+  [Maria Keet](http://www.meteck.org/){:target="_blank"} (South Africa UTC+2)
  
 
 </div>
 <div class="col-md-4" markdown="1">
 
-## <span style="color:#b11170">Important Dates</span>
+## <span style="color:#B6242A">Important Dates</span>
 
 **Call for participation:** Coming soon!
 

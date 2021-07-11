@@ -1,0 +1,16 @@
+current directory: /home/alukina/Documents/IST/Borderless/Borderless2021.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/home/alukina/.rbenv/versions/3.0.1/bin/ruby -I /home/alukina/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210709-6128-whpi6d.rb extconf.rb
+creating Makefile
+
+current directory: /home/alukina/Documents/IST/Borderless/Borderless2021.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /home/alukina/Documents/IST/Borderless/Borderless2021.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/alukina/Documents/IST/Borderless/Borderless2021.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20210709-6128-pqqzkl
