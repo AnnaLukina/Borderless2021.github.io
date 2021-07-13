@@ -39,7 +39,7 @@ remote_theme:  daattali/beautiful-jekyll
 navbar-text-col: "#B8222E"
 link-col: "#B8222E"
 hover-col: "#CDA652"
-#navbar-image: "/assets/img/frame_flock.svg"
+navbar-img: "/assets/img/frame_flock.svg"
 #footer-text-col: "#f3e343"
 #footer-link-col: "#404040"
 
