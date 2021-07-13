@@ -36,12 +36,13 @@ kramdown:
 remote_theme:  daattali/beautiful-jekyll 
 paginate: 5
 
-navbar-col: "#b11170"
-navbar-text-col: "#f3e343"
-link-col: "#b11170"
-hover-col: "#da9851"
-footer-text-col: "#f3e343"
-footer-link-col: "#404040"
+# navbar-col: "#b11170"
+navbar-text-col: "#B8222E"
+link-col: "#B8222E"
+hover-col: "#CDA652"
+#navbar-image: "./assets/img/frame_flock.svg"
+#footer-text-col: "#f3e343"
+#footer-link-col: "#404040"
 
 plugins:
   - jekyll-paginate

@@ -39,7 +39,7 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: #B6242A;
+  color: #B8222E;
 }
 a:hover,
 a:focus {
@@ -119,9 +119,6 @@ img {
   border-bottom: 1px solid #DDDDDD;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   
-    background-image: url(/assets/img/5g2pd0.gif);
-    background-attachment: fixed;
-  
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
@@ -183,7 +180,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
-  color: #404040;
+  color: #B8222E;
 }
 
 .navbar-toggler {
@@ -254,7 +251,7 @@ img {
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
-  color: #404040;
+  color: #B8222E;
 }
 
 @media (min-width: 1200px) {
