@@ -20,7 +20,7 @@ layout: home_original
 
 [Georgiana Ifrim](https://www.insight-centre.org/our-team/georgiana-ifrim/){:target="_blank"} (UK UTC+1)
 
-[Min Zhang](z-m@tsinghua.edu.cn){:target="_blank"} (China UTC+8)
+[Min Zhang](http://www.thuir.cn/group/~mzhang/){:target="_blank"} (China UTC+8)
 
 [Maria Keet](http://www.meteck.org/){:target="_blank"} (South Africa SAST=UTC+2)
 
