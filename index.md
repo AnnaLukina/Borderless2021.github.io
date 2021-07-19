@@ -2,11 +2,6 @@
 layout: home_original
 ---
 
-<style>
-body {
-text-align: justify}
-</style>
-
 <div class="header">
 	<h2>
 	<center>Diversity of Academic and Industrial Careers across Continents</center>
@@ -15,7 +10,12 @@ text-align: justify}
 	<p><center>Virtually during IJCAI 2021!</center></p>
 </div>
 
-The event brings together researchers from **diverse cultural and professional backgrounds** to share their experiences in building academic or industrial careers. The goal is to expand the knowledge of the participants of **opportunities and challenges** in various countries, rather than to provide general advice. The idea stems from the discussion during IJCAI-20, where being poorly informed about **cross-border differences** appeared to be a common roadblock on one's career path.
+<style>
+body {
+text-align: justify}
+</style>
+
+Borderless 2021 brings together researchers from **diverse cultural and professional backgrounds** to share their experiences in building academic or industrial careers. The goal is to expand the knowledge of the participants of **opportunities and challenges** in various countries, rather than to provide general advice. The idea stems from the discussion during IJCAI-20, where being poorly informed about **cross-border differences** appeared to be a common roadblock on one's career path.
 
 <div class="row">
 <div class="col-md-9" markdown="1">
