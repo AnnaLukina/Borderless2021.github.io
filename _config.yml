@@ -35,14 +35,14 @@ kramdown:
 remote_theme:  daattali/beautiful-jekyll 
 paginate: 2
 
-avatar: "/assets/img/hex.png"
+avatar: "/resources/img/hex.png"
 round-avatar: false
 
 # navbar-col: "#b11170"
 navbar-text-col: "#B8222E"
 link-col: "#B8222E"
 hover-col: "#CDA652"
-navbar-img: "/assets/img/frame_flock.svg"
+navbar-img: "/resources/img/frame_flock.svg"
 #footer-text-col: "#f3e343"
 #footer-link-col: "#404040"
 
