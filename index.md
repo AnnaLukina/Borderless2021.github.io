@@ -45,3 +45,4 @@ The event brings together researchers from **diverse cultural and professional b
 **Location:** Gather.Town
 
 </div>
+</div>
