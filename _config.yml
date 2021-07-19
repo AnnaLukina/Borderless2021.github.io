@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Borderless 2021
-#navbar-links:
+navbar-links:
 #  About: "about"
-#  Program: "program"
+   Program: "program"
 #  Contact: "contact"
 #email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
@@ -33,7 +33,10 @@ markdown: kramdown
 kramdown:
   input: GFM  #Github Flavored Markdown
 remote_theme:  daattali/beautiful-jekyll 
-#paginate: 5
+paginate: 2
+
+avatar: "/assets/img/hex.png"
+round-avatar: false
 
 # navbar-col: "#b11170"
 navbar-text-col: "#B8222E"
