@@ -28,6 +28,8 @@ Borderless 2021 brings together researchers from **diverse cultural and professi
 |[Georgiana Ifrim](https://www.insight-centre.org/our-team/georgiana-ifrim/){:target="_blank"} | Insight SFI Research Centre | Ireland | UTC+1 |
 |[Min Zhang](http://www.thuir.cn/group/~mzhang/){:target="_blank"} | Tsinghua University | China | UTC+8 |
 |[Maria Keet](http://www.meteck.org/){:target="_blank"} | University of Cape Town | South Africa | UTC+2 |
+|[Ana Lúcia C. Bazzan](https://www.inf.ufrgs.br/~bazzan/){:target="_blank"} | Universidade Federal do Rio Grande do Sul | Brazil | UTC-3 |
+|[Ruben Glatt](http://www.cowhi.org/){:target="_blank"} | Lawrence Livermore National Laboratory | USA | UTC-7 |
 
 ## <span style="color:#B8222E">Moderator</span>
 
@@ -42,7 +44,7 @@ Borderless 2021 brings together researchers from **diverse cultural and professi
 
 [IJCAI program](https://ijcai-21.org/diversity-and-inclusion-events/)
 
-**Location:** Gather.Town
+**Location:** [Virtual Montreal](https://ijcai-21.org/venue/){:target="_blank"}
 
 </div>
 </div>
