@@ -40,7 +40,7 @@ Borderless 2021 brings together researchers from **diverse cultural and professi
 
 [IJCAI program](https://ijcai-21.org/diversity-and-inclusion-events/)
 
-**Location:** [Virtual Montreal](https://ijcai-21.org/venue/){:target="_blank"}
+[<span class="text-nowrap"><i class="fa fa-map-marker fa-fw"></i> </span> Virtual Montreal](https://ijcai-21.org/venue/){:target="_blank"}
 	
 ## <span style="color:#B8222E">Moderator</span>
 
