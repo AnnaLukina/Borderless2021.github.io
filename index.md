@@ -31,10 +31,6 @@ Borderless 2021 brings together researchers from **diverse cultural and professi
 |[Ana Lúcia C. Bazzan](https://www.inf.ufrgs.br/~bazzan/){:target="_blank"} | Universidade Federal do Rio Grande do Sul | Brazil | UTC-3 |
 |[Ruben Glatt](http://www.cowhi.org/){:target="_blank"} | Lawrence Livermore National Laboratory | USA | UTC-7 |
 
-## <span style="color:#B8222E">Moderator</span>
-
-[Anna Lukina](https://annalukina.com){:target="_blank"}
-
 </div>
 <div class="col-md-3" markdown="1">
 
@@ -45,6 +41,10 @@ Borderless 2021 brings together researchers from **diverse cultural and professi
 [IJCAI program](https://ijcai-21.org/diversity-and-inclusion-events/)
 
 **Location:** [Virtual Montreal](https://ijcai-21.org/venue/){:target="_blank"}
+	
+## <span style="color:#B8222E">Moderator</span>
+
+[Anna Lukina](https://annalukina.com){:target="_blank"}
 
 </div>
 </div>
