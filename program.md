@@ -18,8 +18,8 @@ text-align: justify}
 
 ### August 24: Mid career
 
-<i class="fa fa-clock-seven fa-fw"></i> From 7:00 to 8:00\
-<i class="fa fa-location-dot fa-fw"></i> [Stadium](https://ijcai-21.org/venue/)
+<span class="text-nowrap"><i class="fa fa-clock-seven fa-fw"></i></span> From 7:00 to 8:00\
+<span class="text-nowrap"><i class="fa fa-location-dot fa-fw"></i></span> [Stadium](https://ijcai-21.org/venue/)
 
 - Ruben Glatt
 - Maria Garcia De La Banda
@@ -27,8 +27,8 @@ text-align: justify}
 
 ### August 25: Early career
 
-<i class="fa fa-clock-three fa-fw"></i> From 14:00 to 15:00\
-<i class="fa fa-location-dot fa-fw"></i> [Green 1](https://ijcai-21.org/venue/)
+<span class="text-nowrap"><i class="fa fa-clock-three fa-fw"></i></span> From 14:00 to 15:00\
+<span class="text-nowrap"><i class="fa fa-location-dot fa-fw"></i></span> [Green 1](https://ijcai-21.org/venue/)
 
 - Ana Lúcia C. Bazzan
 - Georgiana Ifrim
